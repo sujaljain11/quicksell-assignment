@@ -2,6 +2,30 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Kanban Board Application
+
+This project is an interactive Kanban board application built with React.js, which dynamically displays and organizes tasks based on user-selected criteria. It interacts with the [Quicksell API](https://api.quicksell.co/v1/internal/frontend-assignment) to fetch and manage tasks.
+
+## Features
+
+- Group tasks by **Status**, **User**, or **Priority**.
+- Sort tasks by **Priority** (descending) or **Title** (ascending).
+- Responsive design, ensuring usability across devices.
+- Maintains the user's view state even after page reloads.
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sujaljain11/quicksell-assignment.git
+
+
 ## Available Scripts
 
 In the project directory, you can run:
